@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Debjyoti Nandi</h1>
+<h1 align="center">Hi there 👋, I'm Debjyoti</h1>
 <h3 align="center">Just another "coder guy"</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wallyxp&label=Profile%20views&color=0e75b6&style=flat" alt="wallyxp" /> </p>
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **debjyotinandi@outlook.com**
 
-- ⚡ Fun fact **most of the people I have being with think that I'm funny**
+- ⚡ Fun fact about me : **I have watched Matt Reeve's The Batman countless number of times**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
