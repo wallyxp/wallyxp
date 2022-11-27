@@ -1,17 +1,15 @@
 <h1 align="center">Hey there 👋, I'm Debjyoti Nandi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Just another "coder guy"</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wallyxp&label=Profile%20views&color=0e75b6&style=flat" alt="wallyxp" /> </p>
 
-<p align="left"> <a href="https://twitter.com/dzerkwosh" target="blank"><img src="https://img.shields.io/twitter/follow/dzerkwosh?logo=twitter&style=for-the-badge" alt="dzerkwosh" /></a> </p>
 
-- 🔭 I’m currently working on a **Messenger Web Application**
 
-- 🌱 I’m currently learning **ReactJs, NextJs**
+- 🔭 I’m currently working on a **Music Streaming Application**
 
-- 💬 Ask me about **datastructures, movies and anime**
+- 💬 Ask me about **datastructures, web dev,  movies and anime**
 
-- 📫 How to reach me **debjyotinandi76@gmail.com**
+- 📫 How to reach me **debjyotinandi@outlook.com**
 
 - ⚡ Fun fact **most of the people I have being with think that I'm funny**
 
