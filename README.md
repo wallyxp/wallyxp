@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on a **Blog Posting Web Application**
 
-- 💬 Ask me about **datastructures, web dev,  movies and anime**
+- 💬 Ask me about **mern stack, data structures, anime**
 
 - 📫 How to reach me **debjyotinandi@outlook.com**
 
