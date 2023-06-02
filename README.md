@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on a **Map Pinning Web Application**
+- 🔭 I’m currently working on a **Blog Posting Web Application**
 
 - 💬 Ask me about **datastructures, web dev,  movies and anime**
 
