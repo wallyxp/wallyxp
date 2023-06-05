@@ -26,8 +26,10 @@
 
 <br/> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wallyxp&show_icons=true&locale=en" alt="wallyxp" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wallyxp&show_icons=true&locale=en" alt="wallyxp" /></p>
 
-<br/>
+<br/> -->
+<hr>
+<h3 align="left">Github Metrics:</h3>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wallyxp&" alt="wallyxp" /></p>
